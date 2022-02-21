@@ -1,6 +1,7 @@
 # Proyecto 1 Ingenieria Web
 
-
+Este proyecto tiene como proposito crear una pagina web con la hoja de vida del estudiante. 
+Fue hecha para la clase de Ingenieria Web - Ingenieria de Sistemas - Universidad EIA
 
 
 # Template Usado
